@@ -1,0 +1,5 @@
+.env
+temp/
+venv/
+vector_stores/
+__pycache__
